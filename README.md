@@ -14,9 +14,9 @@
 
 ### 실행
 <div>
-<img width="400" src="https://user-images.githubusercontent.com/42646583/104183327-271b8380-5455-11eb-916e-b24ad4fb652d.JPG">
-<img width="400" src="https://user-images.githubusercontent.com/42646583/104183246-09e6b500-5455-11eb-9808-ca8c0b4990de.JPG">
-<img width="400" src="https://github.com/imeamin/naver_news_crawling/issues/3#issue-783336916.jpg">
+<img  src="https://user-images.githubusercontent.com/42646583/104183327-271b8380-5455-11eb-916e-b24ad4fb652d.JPG">
+<img  src="https://user-images.githubusercontent.com/42646583/104183246-09e6b500-5455-11eb-9808-ca8c0b4990de.JPG">
+<img  src="https://user-images.githubusercontent.com/42646583/104183402-3f8b9e00-5455-11eb-9bec-774c6a5e993b.JPG">
 </div>
 
 
