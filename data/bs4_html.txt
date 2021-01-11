@@ -1,0 +1,9 @@
+hello
+bye
+welcome
+ok
+no
+sure
+open
+close
+python 3.8python 3.8python 3.8
