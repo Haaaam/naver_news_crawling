@@ -13,3 +13,6 @@
 - 크롤링 결과: 딕셔너리-> 리스트 -> df -> csv and text로 저장
 
 ### 실행
+https://github.com/imeamin/naver_news_crawling/issues/2#issue-783336739
+https://github.com/imeamin/naver_news_crawling/issues/1#issue-783336249
+https://github.com/imeamin/naver_news_crawling/issues/3#issue-783336916
